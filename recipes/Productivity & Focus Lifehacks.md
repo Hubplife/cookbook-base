@@ -6,7 +6,7 @@ If a task takes less than two minutes to complete, do it immediately.
 It might sound simple, but it’s one of the most powerful productivity habits. The idea comes from David Allen’s Getting Things Done method. The logic is that small tasks—like sending a quick message, putting a dish in the sink, or filing a document—take more mental energy to remember than to just do.
 When you handle them instantly, you prevent clutter (both physical and mental) and build a sense of momentum that makes tackling bigger tasks easier.
 
-Pro tip: Keep a notepad or app handy for tasks that will take longer than two minutes—so you don’t forget them while staying focused.
+**Pro tip:** Keep a notepad or app handy for tasks that will take longer than two minutes—so you don’t forget them while staying focused.
 
 ## 2. The 50/10 Rule (or Pomodoro Technique)
 
@@ -30,3 +30,10 @@ To prevent that, turn on Focus Mode (on Android) or Do Not Disturb (on iPhone/Wi
 **Bonus:** You can schedule these focus sessions automatically, e.g. 9 AM–12 PM, so it becomes routine.
 
 **Why it works:** By reducing interruptions, your brain stays in the flow state longer, which leads to faster work and higher quality results.
+
+## 4. Plan Tomorrow, Tonight
+
+At the end of each day, take 5 minutes to write down your top 3 priorities for the next day.
+It’s a small habit that prevents morning confusion and decision fatigue. You start the day already knowing what to do, instead of wasting time figuring it out.
+
+**Pro tip:** Keep the list short. Three meaningful tasks done well beat ten half-finished ones.
