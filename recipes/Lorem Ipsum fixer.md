@@ -7,3 +7,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapi
 ## 2. Lorem 2
 
 Changes you requested
+
+## 3. Lorem 3 
+
+Changes have been made.
