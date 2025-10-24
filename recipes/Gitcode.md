@@ -8,3 +8,4 @@
 ## Preparation
 
 1. Computer
+2. knowledge
